@@ -102,9 +102,29 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+
+![alt text](output.png)
+
+### Addition:
 ![output](output1.png)
 
 ![output](output2.png)
+
+### Subtraction:
+![alt text](subtra.png)
+
+![alt text](subtans.png)
+
+### Multiplication:
+![alt text](mul.png)
+
+![alt text](muloutput.png)
+
+### Division:
+![alt text](div1.png)
+
+![alt text](<div output.png>)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
