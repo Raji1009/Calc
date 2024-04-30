@@ -102,28 +102,27 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-
-![alt text](output.png)
+![alt text](image-8.png)
 
 ### Addition:
-![output](output1.png)
+![alt text](image.png)
 
-![output](output2.png)
+![alt text](image-1.png)
 
 ### Subtraction:
-![alt text](subtra.png)
+![alt text](image-2.png)
 
-![alt text](subtans.png)
+![alt text](image-3.png)
 
 ### Multiplication:
-![alt text](mul.png)
+![alt text](image-4.png)
 
-![alt text](muloutput.png)
+![alt text](image-5.png)
 
 ### Division:
-![alt text](div1.png)
+![alt text](image-6.png)
 
-![alt text](<div output.png>)
+![alt text](image-7.png)
 
 ### Modulus:
 ![alt text](modulus.png)
