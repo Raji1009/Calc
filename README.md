@@ -102,7 +102,6 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-
 ![alt text](image-8.png)
 
 ### Addition:
