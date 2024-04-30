@@ -81,7 +81,7 @@ Publish the website in the given URL.
                 <td><input type="button" value="7" onclick="result.value+='7'"></td>
                 <td><input type="button" value="8" onclick="result.value+='8'"></td>
                 <td><input type="button" value="9" onclick="result.value+='9'"></td>
-                <td><input type="button" value="*" onclick="result.value+=''"></td>
+                <td><input type="button" value="*" onclick="result.value+='*'"></td>
             </tr>
             <tr>
                 <td><input type="button" value="/" onclick="result.value+='/'"></td>
@@ -90,7 +90,8 @@ Publish the website in the given URL.
                 <td><input type="button" value="=" onclick="result.value=eval(result.value)"></td>
             </tr>
             <tr>
-                <td colspan="4">
+                <td><input type="Button" value="%" onclick="result.value+='%'"></td>
+                <td colspan="3">
                     <input type="button" value="C" id="clear" onclick="result.value=''">
                 </td>
             </tr>
@@ -98,7 +99,6 @@ Publish the website in the given URL.
         </form>
    </body>
 </html>
-
 ```
 
 ## OUTPUT:
@@ -124,6 +124,11 @@ Publish the website in the given URL.
 ![alt text](div1.png)
 
 ![alt text](<div output.png>)
+
+### Modulus:
+![alt text](modulus.png)
+
+![alt text](modulusout.png)
 
 
 ## RESULT:
